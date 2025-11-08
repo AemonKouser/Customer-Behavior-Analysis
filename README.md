@@ -17,32 +17,6 @@ The main goals of this project were to:
 * Segment customers into **New, Returning, and Loyal** groups.
 * Translate data into **strategic business recommendations**.
 
----
-
-### 🗂️ Project Structure
-
-```bash
-Customer-Behavior-Analysis/
-│
-├── data/
-│   ├── customer_behavior.csv
-│   └── data_description.txt
-│
-├── notebooks/
-│   ├── customer_behavior_analysis.ipynb
-│   └── exploratory_sql_queries.sql
-│
-├── dashboard/
-│   ├── customer_behavior.pbix
-│   └── dashboard_screenshots/
-│
-├── reports/
-│   ├── Customer Behavior Presentation.pdf
-│   └── Customer Behavior Business Report.pdf
-│
-├── README.md
-└── business_case_study.md
-```
 
 ---
 
